@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 100px;
+}
+
+
+.mahadi{
+    border: 2px solid red;
+    background: linear-gradient(rgba(255, 0, 0, 0.685),rgb(19, 205, 19));
+    color: black;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    position: relative;
+}
+.item{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+}
+.mama{
+    border: 2px solid red;
+    background: linear-gradient(rgba(0, 255, 204, 0.685),rgb(205, 118, 19));
+    color: black;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    position: relative;
+}
+.mmmm{
+    border: 2px solid red;
+    background: linear-gradient(rgba(248, 254, 248, 0.685),rgb(255, 1, 1));
+    color: black;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    position: relative;
+}
+.riyad{
+    border: 2px solid red;
+    background: linear-gradient(rgba(255, 242, 0, 0.685),rgba(19, 31, 205, 0.498));
+    color: black;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    position: relative;
+}
